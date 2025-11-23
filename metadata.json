@@ -1,0 +1,7 @@
+{
+  "name": "GeoFinder AI",
+  "description": "Ứng dụng tra cứu địa điểm thông minh sử dụng Google Maps & Search Grounding qua Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
